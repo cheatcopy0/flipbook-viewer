@@ -1,8 +1,0 @@
-.*
-_tmp/
-node_modules/
-test/
-dist/*
-!dist/flipbook-viewer.js
-src/
-webpack.config.js

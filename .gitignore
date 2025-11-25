@@ -1,5 +1,0 @@
-.*
-_tmp/
-node_modules/
-dist/*
-!dist/flipbook-viewer.js
